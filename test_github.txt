@@ -1,0 +1,7 @@
+Dadang Prakoso
+
+" FIRST TRY "
+- LARAVEL
+- CODEIGNITER
+- JAVA
+- NODE JS
